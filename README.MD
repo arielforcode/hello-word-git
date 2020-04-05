@@ -35,3 +35,6 @@ Underline 2
  - <a href="https://github.com/arielforcode/hello-word-git"> este es el link del repositorio principal</a>
  - [esto es un link en markdowm](https://github.com/arielforcode/hello-word-git)
  - [esto entra al index](index.html)
+
+# Imagenes
+![logo de github](https://anthoncode.com/wp-content/uploads/2019/01/github-octocat-logo-png.png)
