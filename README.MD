@@ -78,4 +78,11 @@ function getAction()
 | max    |burgos    | 8371623   |
 |tomas   |tompson   |89749841   |
 
+# las citas 
+Esto es un texto referente a un texto de pueva
+> Esto es una cita.
 
+Esto es otro texto que no tiene relacion con el texto anterior
+>esto es la segunda cita 
+
+acabaron las cosas
