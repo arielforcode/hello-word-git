@@ -70,3 +70,12 @@ function getAction()
             alert(x.action);
     } 
 ```
+
+# creacion de tablas
+
+| Nombre | Apellido | Documento |
+|--------|----------|-----------|
+| max    |burgos    | 8371623   |
+|tomas   |tompson   |89749841   |
+
+
