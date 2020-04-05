@@ -38,3 +38,35 @@ Underline 2
 
 # Imagenes
 ![logo de github](https://anthoncode.com/wp-content/uploads/2019/01/github-octocat-logo-png.png)
+
+# code Snipets
+codigo del JSOM de actualizacion
+```JSON
+[
+    {
+        "title":"manzanas",
+        "conunt":[12000,20000],
+        "description":{"text":"....","sensitive":false}
+    },{
+        "title":"perqas",
+        "conunt":[16000,20078],
+        "description":{"text":"....","sensitive":false}
+
+    }
+]
+```
+codigo en javascript
+```Javascript
+function getAction()
+    {
+            var x=document.forms.myForm;
+            alert(x.action);
+    }
+    
+    function changeAction(action)
+    {
+            var x=document.forms.myForm;
+            x.action=action;
+            alert(x.action);
+    } 
+```
