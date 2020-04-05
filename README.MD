@@ -86,3 +86,15 @@ Esto es otro texto que no tiene relacion con el texto anterior
 >esto es la segunda cita 
 
 acabaron las cosas
+
+# lineas Divisoras 
+Esto es un texto que sera dividido
+
+---
+Esto es otro texto dividido
+
+***
+dividido por asteriscos
+
+___
+dividido por guiones bajos
